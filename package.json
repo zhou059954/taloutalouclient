@@ -28,7 +28,6 @@
     "mongoskin": "^2.1.0",
     "multer": "^1.4.1",
     "multer-gridfs-storage": "^3.2.3",
-    "node": "^10.3.0",
     "q": "^1.5.1",
     "rootpath": "^0.1.2"
   },
